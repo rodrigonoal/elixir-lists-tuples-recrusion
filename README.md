@@ -2,6 +2,8 @@
 
 # Exercícios - Arrays e Loops
 
+Estes são exercícios da Cubos Academy para o apredizado de Javascript. Adaptei-os para Elixir, fazendo uso de recursividade no lugar de loops e tuples e listas no lugar de arrays.
+
 ## Exercícios de classe 🏫
 
 1. Soma total
